@@ -2,6 +2,7 @@ RiceLeaf Disease Detection
 
 
 RiceLeaf disease detection
+
 Task 1:-Prepare a complete data analysis report on the given data.
 
 Task 2:-Create a model which can classify the three major attacking diseases of
