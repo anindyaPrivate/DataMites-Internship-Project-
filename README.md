@@ -1,5 +1,4 @@
-# DataMites-Internship-Project-
-A machine literacy design is a design that uses ways from the field of machine literacy to make a model that can learn from data and make prognostications or take conduct grounded on that literacy.
+RiceLeaf Disease Detection
 
 
 RiceLeaf disease detection
